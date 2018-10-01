@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tacsc</string>
+    <string-array name="profiles">
+        <item>Technician</item>
+        <item>End User</item>
+    </string-array>
+</resources>

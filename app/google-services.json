@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "754547527305",
+    "firebase_url": "https://tacsc-e3b08.firebaseio.com",
+    "project_id": "tacsc-e3b08",
+    "storage_bucket": "tacsc-e3b08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754547527305:android:92cabffec1a0d0d4",
+        "android_client_info": {
+          "package_name": "com.youngtard.tacsc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754547527305-r2diif6ql3uv2vofod5dcanbpjp8vl6u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.youngtard.tacsc",
+            "certificate_hash": "73fa8c9293bb02b5ded9e1e002c065c40c52dbdd"
+          }
+        },
+        {
+          "client_id": "754547527305-dkvrfj683bcqpn8sjut63dplu8cdr7s0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAkUUtgfpNcNASVRL1Zd62o_j2zOTjYqw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754547527305-dkvrfj683bcqpn8sjut63dplu8cdr7s0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
